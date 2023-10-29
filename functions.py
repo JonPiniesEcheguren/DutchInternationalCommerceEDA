@@ -407,7 +407,7 @@ def socios(comercio2021, productoPaisExp, productoPaisImp):
         pueden ser la tecnología o la energía. El producto más importado desde China en 2021 fue “Equipamiento de telecomunicaciones”. El \
         producto más importado desde Estados Unidos y Rusia en 2021 fue “Aceites petrolíferos y otros”. La reciente guerra de Ucrania ha tenido \
         consecuencias fatales para Países Bajos y resto de países europeos y dejado en evidencia la necesidad de ser autosuficientes en estos \
-        campos. Aunque en menor medida, la crisis de los microchips también tuve un impacto en el posicionamiento comercial de países europeos \
+        campos. Aunque en menor medida, la crisis de los microchips también tuvo un impacto en el posicionamiento comercial de países europeos \
         respecto a bienes estratégicos.')
 
     opcion = st.radio(label='Visualizar:', options=('Exportaciones', 'Importaciones'))
@@ -545,7 +545,7 @@ def tendencias(comercio):
     st.title('Una tendencia clara')
     st.subheader('El comercio exterior neerlandés en los últimos diez años')
     st.write('La tendencia en el comercio exterior neerlandés refleja una continua expansión y diversificación de sus relaciones comerciales. \
-        A pesar de existir una alta similitud entre las variaciones de las exportaciones e importaciones existen pequeñas diferencias.')
+        A pesar de existir una alta similitud entre las variaciones de las exportaciones e importaciones, existen pequeñas diferencias.')
     st.write('Las exportaciones se mantuvieron en unos niveles estables en el periodo 2012-2016. Tras este periodo, el crecimiento anual ha \
         sido considerable, únicamente opacado en el año 2020 por la pandemia y sus claras consecuencias en el comercio internacional. Además, \
         las exportaciones en 2021 se recuperaron de tal forma que superaron cualquier nivel previamente alcanzado. Las variaciones de las \
@@ -556,8 +556,8 @@ def tendencias(comercio):
         también acusaron la crisis de la Covid-19. En 2021, tras volver a la normalidad, también se batió el nivel máximo previo.')
     st.write('Pese a que CBS no ofrece datos completos para el año 2022 (a día 30 de octubre de 2023), existen otras fuentes, como Trademap.org, \
         que sí los ofrecen. Los valores absolutos no pueden compararse entre ambas fuentes, pues la metodología de obtención de datos ha sido \
-        diferente, pero sí se pueden analizar las tendencias. En 2022, el crecimiento de tanto las exportaciones (+10,54 %) como las \
-        importaciones (+14,35 %) ha vuelto a ser muy elevado.')
+        diferente, pero sí se pueden analizar las tendencias. En 2022, el crecimiento de tanto las exportaciones (+10,54 %), como las \
+        importaciones (+14,35 %), ha vuelto a ser muy elevado.')
     st.write('La expectativa para los próximos años es de crecimiento continuado en ambos apartados. Existen ciertos peligros o riesgos para \
         el comercio exterior mundial, como políticas proteccionistas, debilitaciones en las relaciones comerciales entre países o guerras. \
         Pese a cierta incertidumbre y posibles contratiempos, la tendencia actual no debería variar, por lo menos, en el corto/medio \
@@ -602,8 +602,8 @@ def conclusion():
         reflejan. Su fortaleza en el continente europeo es indiscutible. Además de comercializar en volúmenes muy elevados, los productos son \
         de un alto valor.')
     st.write('Su posición geográfica estratégica, su avanzada infraestructura y logística, y el puerto de Róterdam son algunos de los factores \
-        que favorecen el comercio exterior con el resto de países europeos. Además, obtiene aquellos recursos o bienes que no es capaz de \
-        producir desde China, Estados Unidos y Rusia, principales potencias políticas mundiales.')
+        que favorecen el comercio exterior con el resto de países europeos. Además, obtiene gran parte de aquellos recursos o bienes que no es \
+        capaz de producir desde China, Estados Unidos y Rusia, principales potencias políticas mundiales.')
     st.image('images/dutch_parlament.jpg', caption='El parlamento neerlandés se encuentra en la ciudad de La Haya')
     st.write('Países Bajos tiene una dependencia energética exterior. El producto principal que importa desde Rusia y Estados Unidos es \
         “Aceites petrolíferos y otros”. Los productos que exporta son variados, pero provenientes todos de sectores tecnológicos. Además de \
