@@ -1,0 +1,975 @@
+Key;Title;Description
+L008533;Afghanistan;"GEO code: 660 
+ISO 3166-1 numeric code: 004
+ISO 3166-1 alpha-2 code: AF 
+ISO 3166-1 alpha-3 code: AFG"
+L008534;Albania;"GEO code: 070
+ISO 3166-1 numeric code: 008
+ISO 3166-1 alpha-2 code: AL
+ISO 3166-1 alpha-3 code: ALB"
+L008535;Algeria;"GEO code: 208
+ISO 3166-1 numeric code: 012 
+ISO 3166-1 alpha-2 code: DZ
+ISO 3166-1 alpha-3 code: DZA"
+L008536;American Samoa;"GEO code: 830
+ISO 3166-1 numeric code: 016 
+ISO 3166-1 alpha-2 code: AS
+ISO 3166-1 alpha-3 code: ASM"
+L008537;American Virgin Islands;"GEO code: 457
+ISO 3166-1 numeric code: 850 
+ISO 3166-1 alpha-2 code: VI
+ISO 3166-1 alpha-3 code: VIR"
+L008538;Andorra;"GEO code: 043
+ISO 3166-1 numeric code: 020
+ISO 3166-1 alpha-2 code: AD 
+ISO 3166-1 alpha-3 code: AND"
+L008539;Angola;"GEO code: 330
+ISO 3166-1 numeric code: 024 
+ISO 3166-1 alpha-2 code: AO
+ISO 3166-1 alpha-3 code: AGO"
+L008540;Anguilla;"GEO code: 446
+ISO 3166-1 numeric code: 660 
+ISO 3166-1 alpha-2 code: AI
+ISO 3166-1 alpha-3 code: AIA"
+L008532;Antarctica;"GEO code: 891
+ISO 3166-1 numeric code: 010
+ISO 3166-1 alpha-2 code: AQ
+ISO 3166-1 alpha-3 code: ATA"
+L008541;Antigua and Barbuda;"GEO code: 459
+ISO 3166-1 numeric code: 028 
+ISO 3166-1 alpha-2 code: AG
+ISO 3166-1 alpha-3 code: ATG"
+L008542;Argentina;"GEO code: 528
+ISO 3166-1 numeric code: 032 
+ISO 3166-1 alpha-2 code: AR
+ISO 3166-1 alpha-3 code: ARG"
+L008543;Armenia;"GEO code: 077 
+ISO 3166-1 numeric code: 051 
+ISO 3166-1 alpha-2 code: AM
+ISO 3166-1 alpha-3 code: ARM"
+L008544;Aruba;"GEO code: 474
+ISO 3166-1 numeric code: 533
+ISO 3166-1 alpha-2 code: AW 
+ISO 3166-1 alpha-3 code: ABW"
+L008545;Australia;"GEO code: 800
+ISO 3166-1 numeric code: 036
+ISO 3166-1 alpha-2 code: AU 
+ISO 3166-1 alpha-3 code: AUS"
+L008709;Austria;"GEO code: 038
+ISO 3166-1 numeric code: 040
+ISO 3166-1 alpha-2 code: AT
+ISO 3166-1 alpha-3 code: AUT"
+L008546;Azerbaijan;"GEO code: 078
+ISO 3166-1 numeric code: 031
+ISO 3166-1 alpha-2 code: AZ 
+ISO 3166-1 alpha-3 code: AZE"
+L008547;Bahamas;"GEO code: 453
+ISO 3166-1 numeric code: 044
+ISO 3166-1 alpha-2 code: BS 
+ISO 3166-1 alpha-3 code: BHS"
+L008548;Bahrain;"GEO code: 640
+ISO 3166-1 numeric code: 048
+ISO 3166-1 alpha-2 code: BH 
+ISO 3166-1 alpha-3 code: BHR"
+L008549;Bangladesh;"GEO code: 666
+ISO 3166-1 numeric code: 050
+ISO 3166-1 alpha-2 code: BD 
+ISO 3166-1 alpha-3 code: BGD"
+L008550;Barbados;"GEO code: 469
+ISO 3166-1 numeric code: 052
+ISO 3166-1 alpha-2 code: BB 
+ISO 3166-1 alpha-3 code: BRB"
+L008783;Belarus;"GEO code: 073
+ISO 3166-1 numeric code: 112
+ISO 3166-1 alpha-2 code: BY 
+ISO 3166-1 alpha-3 code: BLR"
+L008552;Belgium;"GEO code: 017
+ISO 3166-1 numeric code: 056
+ISO 3166-1 alpha-2 code: BE 
+ISO 3166-1 alpha-3 code: BEL 
+"
+L008553;Belize;"GEO code: 421
+ISO 3166-1 numeric code: 084
+ISO 3166-1 alpha-2 code: BZ 
+ISO 3166-1 alpha-3 code: BLZ"
+L008554;Benin;"GEO code: 284
+ISO 3166-1 numeric code: 204
+ISO 3166-1 alpha-2 code: BJ 
+ISO 3166-1 alpha-3 code: BEN"
+L008555;Bermuda;"GEO code: 413
+ISO 3166-1 numeric code: 060
+ISO 3166-1 alpha-2 code: BM 
+ISO 3166-1 alpha-3 code: BMU"
+L006997;Bhutan;"GEO code: 675
+ISO 3166-1 numeric code: 064
+ISO 3166-1 alpha-2 code: BT 
+ISO 3166-1 alpha-3 code: BTN"
+L008557;Bolivia;"GEO code: 516
+ISO 3166-1 numeric code: 068
+ISO 3166-1 alpha-2 code: BO 
+ISO 3166-1 alpha-3 code: BOL"
+L008794;Bonaire, Sint Eustatius and Saba;"GEO code: 477
+ISO 3166-1 numeric code: 535
+ISO 3166-1 alpha-2 code: BQ
+ISO 3166-1 alpha-3 code: BES
+From 2013"
+L008559;Bosnia and Herzegovina;"GEO code: 093
+ISO 3166-1 numeric code: 070
+ISO 3166-1 alpha-2 code: BA 
+ISO 3166-1 alpha-3 code: BIH"
+L008560;Botswana;"GEO code: 391
+ISO 3166-1 numeric code: 072
+ISO 3166-1 alpha-2 code: BW 
+ISO 3166-1 alpha-3 code: BWA"
+L008561;Bouvet Island;"GEO code: 892
+ISO 3166-1 numeric code: 074
+ISO 3166-1 alpha-2 code: BV 
+ISO 3166-1 alpha-3 code: BVT"
+L008562;Brazil;"GEO code: 508
+ISO 3166-1 numeric code: 076
+ISO 3166-1 alpha-2 code: BR 
+ISO 3166-1 alpha-3 code: BRA"
+L008564;British Indian Ocean Territory;"GEO code: 357
+ISO 3166-1 numeric code: 086
+ISO 3166-1 alpha-2 code: IO 
+ISO 3166-1 alpha-3 code: IOT"
+L008565;British Virgin Islands;"GEO code: 468
+ISO 3166-1 numeric code: 092
+ISO 3166-1 alpha-2 code: VG 
+ISO 3166-1 alpha-3 code: VGB"
+L008566;Brunei;"GEO code: 703
+ISO 3166-1 numeric code: 096
+ISO 3166-1 alpha-2 code: BN 
+ISO 3166-1 alpha-3 code: BRN"
+L008567;Bulgaria;"GEO code: 068
+ISO 3166-1 numeric code: 100
+ISO 3166-1 alpha-2 code: BG 
+ISO 3166-1 alpha-3 code: BGR"
+L008568;Burkina Faso;"GEO code: 236
+ISO 3166-1 numeric code: 854
+ISO 3166-1 alpha-2 code: BF 
+ISO 3166-1 alpha-3 code: BFA"
+L008569;Burundi;"GEO code: 328
+ISO 3166-1 numeric code: 108
+ISO 3166-1 alpha-2 code: BI 
+ISO 3166-1 alpha-3 code: BDI"
+L008570;Cambodia;"GEO code: 696
+ISO 3166-1 numeric code: 116
+ISO 3166-1 alpha-2 code: KH 
+ISO 3166-1 alpha-3 code: KHM"
+L008645;Cameroon;"GEO code: 302
+ISO 3166-1 numeric code: 120
+ISO 3166-1 alpha-2 code: CM 
+ISO 3166-1 alpha-3 code: CMR"
+L008571;Canada;"GEO code: 404
+ISO 3166-1 numeric code: 124
+ISO 3166-1 alpha-2 code: CA
+ISO 3166-1 alpha-3 code: CAN"
+L008644;Cape Verde;"GEO code: 247
+ISO 3166-1 numeric code: 132
+ISO 3166-1 alpha-2 code: CV 
+ISO 3166-1 alpha-3 code: CPV"
+L008572;Cayman Islands;"GEO code: 463
+ISO 3166-1 numeric code: 136
+ISO 3166-1 alpha-2 code: KY
+ISO 3166-1 alpha-3 code: CYM"
+L008573;Central African Republic;"GEO code: 306
+ISO 3166-1 numeric code: 140
+ISO 3166-1 alpha-2 code: CF 
+ISO 3166-1 alpha-3 code: CAF"
+L008817;Ceuta;"GEO code: 021
+ISO 3166-1 numeric code: -
+ISO 3166-1 alpha-2 code: -
+ISO 3166-1 alpha-3 code: -"
+L008763;Chad;"GEO code: 244
+ISO 3166-1 numeric code: 148
+ISO 3166-1 alpha-2 code: TD 
+ISO 3166-1 alpha-3 code: TCD"
+L008574;Chile;"GEO code: 512
+ISO 3166-1 numeric code: 152
+ISO 3166-1 alpha-2 code: CL 
+ISO 3166-1 alpha-3 code: CHL"
+L008575;China;"GEO code: 720
+ISO 3166-1 numeric code: 156
+ISO 3166-1 alpha-2 code: CN
+ISO 3166-1 alpha-3 code: CHN"
+L008577;Christmas Island;"GEO code: 834
+ISO 3166-1 numeric code: 162
+ISO 3166-1 alpha-2 code: CX 
+ISO 3166-1 alpha-3 code: CXR"
+L008578;Cocos Islands;"GEO code: 833
+ISO 3166-1 numeric code: 166
+ISO 3166-1 alpha-2 code: CC 
+ISO 3166-1 alpha-3 code: CCK"
+L008579;Colombia;"GEO code: 480
+ISO 3166-1 numeric code: 170
+ISO 3166-1 alpha-2 code: CO 
+ISO 3166-1 alpha-3 code: COL"
+L008580;Comoros;"GEO code: 375
+ISO 3166-1 numeric code: 174
+ISO 3166-1 alpha-2 code: KM 
+ISO 3166-1 alpha-3 code: COM"
+L008581;Congo;"GEO code: 318
+ISO 3166-1 numeric code: 178
+ISO 3166-1 alpha-2 code: CG 
+ISO 3166-1 alpha-3 code: COG"
+L008582;Congo (Democratic Republic);"GEO code: 322
+ISO 3166-1 numeric code: 180
+ISO 3166-1 alpha-2 code: CD 
+ISO 3166-1 alpha-3 code: COD"
+L008583;Cook Islands;"GEO code: 837
+ISO 3166-1 numeric code: 184
+ISO 3166-1 alpha-2 code: CK 
+ISO 3166-1 alpha-3 code: COK"
+L008584;Costa Rica;"GEO code: 436
+ISO 3166-1 numeric code: 188
+ISO 3166-1 alpha-2 code: CR 
+ISO 3166-1 alpha-3 code: CRI"
+L008654;Croatia;"GEO code: 092
+ISO 3166-1 numeric code: 191
+ISO 3166-1 alpha-2 code: HR 
+ISO 3166-1 alpha-3 code: HRV"
+L008585;Cuba;"GEO code: 448
+ISO 3166-1 numeric code: 192
+ISO 3166-1 alpha-2 code: CU 
+ISO 3166-1 alpha-3 code: CUB"
+L008586;Curaçao;"GEO code: 475
+ISO 3166-1 numeric code: 531
+ISO 3166-1 alpha-2 code: CW 
+ISO 3166-1 alpha-3 code: CUW 
+From 2013"
+L008587;Cyprus;"GEO code: 600
+ISO 3166-1 numeric code: 196
+ISO 3166-1 alpha-2 code: CY 
+ISO 3166-1 alpha-3 code: CYP"
+L008764;Czech Republic;"GEO code: 061
+ISO 3166-1 numeric code: 203
+ISO 3166-1 alpha-2 code: CZ 
+ISO 3166-1 alpha-3 code: CZE"
+L008588;Denmark;"GEO code: 008
+ISO 3166-1 numeric code: 208
+ISO 3166-1 alpha-2 code: DK 
+ISO 3166-1 alpha-3 code: DNK"
+L008589;Djibouti;"GEO code: 338
+ISO 3166-1 numeric code: 262
+ISO 3166-1 alpha-2 code: DJ 
+ISO 3166-1 alpha-3 code: DJI"
+L008590;Dominica;"GEO code: 460
+ISO 3166-1 numeric code: 212
+ISO 3166-1 alpha-2 code: DM 
+ISO 3166-1 alpha-3 code: DMA"
+L008591;Dominican Republic;"GEO code: 456
+ISO 3166-1 numeric code: 214
+ISO 3166-1 alpha-2 code: DO 
+ISO 3166-1 alpha-3 code: DOM"
+L008593;Ecuador;"GEO code: 500
+ISO 3166-1 numeric code: 218
+ISO 3166-1 alpha-2 code: CE 
+ISO 3166-1 alpha-3 code: ECU"
+L008594;Egypt;"GEO code:220
+ISO 3166-1 numeric code: 818
+ISO 3166-1 alpha-2 code: EG 
+ISO 3166-1 alpha-3 code: EGY"
+L008595;El Salvador;"GEO code: 428
+ISO 3166-1 numeric code: 222
+ISO 3166-1 alpha-2 code: SV 
+ISO 3166-1 alpha-3 code: SLV"
+L008596;Equatorial Guinea;"GEO code: 310
+ISO 3166-1 numeric code: 226
+ISO 3166-1 alpha-2 code: GQ 
+ISO 3166-1 alpha-3 code: GNQ"
+L008597;Eritrea;"GEO code: 336
+ISO 3166-1 numeric code: 232
+ISO 3166-1 alpha-2 code: ER 
+ISO 3166-1 alpha-3 code: ERI"
+L008598;Estonia;"GEO code: 053
+ISO 3166-1 numeric code: 233
+ISO 3166-1 alpha-2 code: EE 
+ISO 3166-1 alpha-3 code: EST"
+L008599;Ethiopia;"GEO code: 334
+ISO 3166-1 numeric code: 231
+ISO 3166-1 alpha-2 code: ET 
+ISO 3166-1 alpha-3 code: ETH"
+L008601;Falkland Islands;"GEO code: 529
+ISO 3166-1 numeric code: 238
+ISO 3166-1 alpha-2 code: FK 
+ISO 3166-1 alpha-3 code: FLK"
+L008600;Faroe Islands;"GEO code: 041
+ISO 3166-1 numeric code: 234
+ISO 3166-1 alpha-2 code: FO 
+ISO 3166-1 alpha-3 code: FRO"
+L008602;Fiji;"GEO code: 815
+ISO 3166-1 numeric code: 242
+ISO 3166-1 alpha-2 code: FJ 
+ISO 3166-1 alpha-3 code: FJI"
+L008604;Finland;"GEO code: 032
+ISO 3166-1 numeric code: 246
+ISO 3166-1 alpha-2 code: FI 
+ISO 3166-1 alpha-3 code: FIN"
+L008605;France;"GEO code: 001
+ISO 3166-1 numeric code: 250
+ISO 3166-1 alpha-2 code: FR 
+ISO 3166-1 alpha-3 code: FRA 
+From 2014 Mayotte included
+Up to and including 2012 Saint Barthélemy included"
+L008608;French Polynesia;"GEO code: 822
+ISO 3166-1 numeric code: 258
+ISO 3166-1 alpha-2 code: PF 
+ISO 3166-1 alpha-3 code: PYF"
+L008607;French Southern Territories;"GEO code: 894
+ISO 3166-1 numeric code: 260
+ISO 3166-1 alpha-2 code: TF 
+ISO 3166-1 alpha-3 code: ATF"
+L008609;Gabon;"GEO code: 314
+ISO 3166-1 numeric code: 266
+ISO 3166-1 alpha-2 code: GA 
+ISO 3166-1 alpha-3 code: GAB"
+L008610;Gambia;"GEO code: 252
+ISO 3166-1 numeric code: 270
+ISO 3166-1 alpha-2 code: GM 
+ISO 3166-1 alpha-3 code: GMB"
+L008611;Georgia;"GEO code: 076
+ISO 3166-1 numeric code: 268
+ISO 3166-1 alpha-2 code: GE 
+ISO 3166-1 alpha-3 code: GEO"
+L008592;Germany;"GEO code: 004
+ISO 3166-1 numeric code: 276
+ISO 3166-1 alpha-2 code: DE 
+ISO 3166-1 alpha-3 code: DEU"
+L008612;Ghana;"GEO code: 276
+ISO 3166-1 numeric code: 288
+ISO 3166-1 alpha-2 code: GH 
+ISO 3166-1 alpha-3 code: GHA"
+L008613;Gibraltar;"GEO code: 044
+ISO 3166-1 numeric code: 292
+ISO 3166-1 alpha-2 code: GI 
+ISO 3166-1 alpha-3 code: GIB"
+L008615;Greece;"GEO code: 009
+ISO 3166-1 numeric code: 300
+ISO 3166-1 alpha-2 code: GR 
+ISO 3166-1 alpha-3 code: GRC"
+L008616;Greenland;"GEO code: 406
+ISO 3166-1 numeric code: 304
+ISO 3166-1 alpha-2 code: GL 
+ISO 3166-1 alpha-3 code: GRL"
+L008614;Grenada;"GEO code: 473
+ISO 3166-1 numeric code: 308
+ISO 3166-1 alpha-2 code: GD 
+ISO 3166-1 alpha-3 code: GRD"
+L008618;Guam;"GEO code: 831
+ISO 3166-1 numeric code: 316
+ISO 3166-1 alpha-2 code: GU 
+ISO 3166-1 alpha-3 code: GUM"
+L008619;Guatemala;"GEO code: 416
+ISO 3166-1 numeric code: 320
+ISO 3166-1 alpha-2 code: GT 
+ISO 3166-1 alpha-3 code: GTM"
+L008621;Guinea;"GEO code: 260
+ISO 3166-1 numeric code: 324
+ISO 3166-1 alpha-2 code: GN 
+ISO 3166-1 alpha-3 code: GIN"
+L008622;Guinea-Bissau;"GEO code: 257
+ISO 3166-1 numeric code: 624
+ISO 3166-1 alpha-2 code: GW 
+ISO 3166-1 alpha-3 code: GNB"
+L008623;Guyana;"GEO code: 488
+ISO 3166-1 numeric code: 328
+ISO 3166-1 alpha-2 code: GY 
+ISO 3166-1 alpha-3 code: GUY"
+L008624;Haiti;"GEO code: 452
+ISO 3166-1 numeric code: 332
+ISO 3166-1 alpha-2 code: HT 
+ISO 3166-1 alpha-3 code: HTI"
+L008625;Heard Island and McDonald Islands;"GEO code: 835
+ISO 3166-1 numeric code: 334
+ISO 3166-1 alpha-2 code: HM 
+ISO 3166-1 alpha-3 code: HMD"
+L008626;Honduras;"GEO code: 424
+ISO 3166-1 numeric code: 340
+ISO 3166-1 alpha-2 code: HN 
+ISO 3166-1 alpha-3 code: HND"
+L008628;Hong Kong;"GEO code: 740
+ISO 3166-1 numeric code: 344
+ISO 3166-1 alpha-2 code: HK 
+ISO 3166-1 alpha-3 code: HKG"
+L008627;Hungary;"GEO code: 064
+ISO 3166-1 numeric code: 348
+ISO 3166-1 alpha-2 code: HU 
+ISO 3166-1 alpha-3 code: HUN"
+L008630;Iceland;"GEO code: 024
+ISO 3166-1 numeric code: 352
+ISO 3166-1 alpha-2 code: IS 
+ISO 3166-1 alpha-3 code: ISL"
+L008631;India;"GEO code: 664
+ISO 3166-1 numeric code: 356
+ISO 3166-1 alpha-2 code: IN 
+ISO 3166-1 alpha-3 code: IND"
+L008632;Indonesia;"GEO code: 700
+ISO 3166-1 numeric code: 360
+ISO 3166-1 alpha-2 code: ID 
+ISO 3166-1 alpha-3 code: IDN"
+L008634;Iran;"GEO code: 616
+ISO 3166-1 numeric code: 364
+ISO 3166-1 alpha-2 code: IR 
+ISO 3166-1 alpha-3 code: IRN"
+L008633;Iraq;"GEO code: 612
+ISO 3166-1 numeric code: 368
+ISO 3166-1 alpha-2 code: IQ 
+ISO 3166-1 alpha-3 code: IRQ"
+L008629;Ireland;"GEO code: 007
+ISO 3166-1 numeric code: 372
+ISO 3166-1 alpha-2 code: IE 
+ISO 3166-1 alpha-3 code: IRL"
+L008635;Israel;"GEO code: 624
+ISO 3166-1 numeric code: 376
+ISO 3166-1 alpha-2 code: IL 
+ISO 3166-1 alpha-3 code: ISR"
+L008636;Italy;"GEO code: 005
+ISO 3166-1 numeric code: 380
+ISO 3166-1 alpha-2 code: IT 
+ISO 3166-1 alpha-3 code: ITA"
+L008637;Ivory Coast;"GEO code: 272
+ISO 3166-1 numeric code: 384
+ISO 3166-1 alpha-2 code: CI 
+ISO 3166-1 alpha-3 code: CIV"
+L008638;Jamaica;"GEO code: 464
+ISO 3166-1 numeric code: 388
+ISO 3166-1 alpha-2 code: JM 
+ISO 3166-1 alpha-3 code: JAM"
+L008639;Japan;"GEO code: 732
+ISO 3166-1 numeric code: 392
+ISO 3166-1 alpha-2 code: JP 
+ISO 3166-1 alpha-3 code: JPN"
+L008643;Jordan;"GEO code: 628
+ISO 3166-1 numeric code: 400
+ISO 3166-1 alpha-2 code: JO 
+ISO 3166-1 alpha-3 code: JOR"
+L008648;Kazakhstan;"GEO code: 079
+ISO 3166-1 numeric code: 398
+ISO 3166-1 alpha-2 code: KZ
+ISO 3166-1 alpha-3 code: KAZ"
+L008649;Kenya;"GEO code: 346
+ISO 3166-1 numeric code: 404
+ISO 3166-1 alpha-2 code: KE 
+ISO 3166-1 alpha-3 code: KEN"
+L008651;Kiribati;"GEO code: 812
+ISO 3166-1 numeric code: 296
+ISO 3166-1 alpha-2 code: KI 
+ISO 3166-1 alpha-3 code: KIR"
+L008653;Kosovo;"GEO code: 095
+ISO 3166-1 numeric code: -
+ISO 3166-1 alpha-2 code: -
+ISO 3166-1 alpha-3 code: -"
+L008652;Kuwait;"GEO code: 636
+ISO 3166-1 numeric code: 414
+ISO 3166-1 alpha-2 code: KW 
+ISO 3166-1 alpha-3 code: KWT"
+L008650;Kyrgyz;"GEO code: 083
+ISO 3166-1 numeric code: 417
+ISO 3166-1 alpha-2 code: KG 
+ISO 3166-1 alpha-3 code: KGZ"
+L008655;Laos;"GEO code: 684
+ISO 3166-1 numeric code: 418
+ISO 3166-1 alpha-2 code: LA 
+ISO 3166-1 alpha-3 code: LAO"
+L008657;Latvia;"GEO code: 054
+ISO 3166-1 numeric code: 428
+ISO 3166-1 alpha-2 code: LV 
+ISO 3166-1 alpha-3 code: LVA"
+L008658;Lebanon;"GEO code: 604
+ISO 3166-1 numeric code: 422
+ISO 3166-1 alpha-2 code: LB 
+ISO 3166-1 alpha-3 code: LBN"
+L008656;Lesotho;"GEO code: 395
+ISO 3166-1 numeric code: 426
+ISO 3166-1 alpha-2 code: LS 
+ISO 3166-1 alpha-3 code: LSO"
+L008659;Liberia;"GEO code: 268
+ISO 3166-1 numeric code: 430
+ISO 3166-1 alpha-2 code: LR 
+ISO 3166-1 alpha-3 code: LBR"
+L008660;Libya;"GEO code: 216
+ISO 3166-1 numeric code: 434
+ISO 3166-1 alpha-2 code: LY 
+ISO 3166-1 alpha-3 code: LBY"
+L008661;Liechtenstein;"GEO code: 037
+ISO 3166-1 numeric code: 438
+ISO 3166-1 alpha-2 code: LI 
+ISO 3166-1 alpha-3 code: LIE"
+L008662;Lithuania;"GEO code: 055
+ISO 3166-1 numeric code: 440
+ISO 3166-1 alpha-2 code: LT 
+ISO 3166-1 alpha-3 code: LTU"
+L008663;Luxembourg;"GEO code: 018
+ISO 3166-1 numeric code: 442
+ISO 3166-1 alpha-2 code: LU 
+ISO 3166-1 alpha-3 code: LUX 
+"
+L008664;Macao;"GEO code: 743
+ISO 3166-1 numeric code: 446
+ISO 3166-1 alpha-2 code: MO 
+ISO 3166-1 alpha-3 code: MAC"
+L008665;Macedonia;"GEO code: 096
+ISO 3166-1 numeric code: 807
+ISO 3166-1 alpha-2 code: MK 
+ISO 3166-1 alpha-3 code: MKD"
+L008666;Madagascar;"GEO code: 370
+ISO 3166-1 numeric code: 450
+ISO 3166-1 alpha-2 code: MG 
+ISO 3166-1 alpha-3 code: MDG"
+L008667;Malawi;"GEO code: 386
+ISO 3166-1 numeric code: 454
+ISO 3166-1 alpha-2 code: MW 
+ISO 3166-1 alpha-3 code: MWI"
+L008669;Malaysia;"GEO code: 701
+ISO 3166-1 numeric code: 458
+ISO 3166-1 alpha-2 code: MY 
+ISO 3166-1 alpha-3 code: MYS"
+L008668;Maldives;"GEO code: 667
+ISO 3166-1 numeric code: 462
+ISO 3166-1 alpha-2 code: MV 
+ISO 3166-1 alpha-3 code: MDV"
+L008670;Mali;"GEO code: 232
+ISO 3166-1 numeric code: 466
+ISO 3166-1 alpha-2 code: ML 
+ISO 3166-1 alpha-3 code: MLI"
+L008671;Malta;"GEO code: 046
+ISO 3166-1 numeric code: 470
+ISO 3166-1 alpha-2 code: MT 
+ISO 3166-1 alpha-3 code: MLT"
+L008675;Marshall Islands;"GEO code: 824
+ISO 3166-1 numeric code: 584
+ISO 3166-1 alpha-2 code: MH 
+ISO 3166-1 alpha-3 code: MHL"
+L008677;Mauritania;"GEO code: 228
+ISO 3166-1 numeric code: 478
+ISO 3166-1 alpha-2 code: MR 
+ISO 3166-1 alpha-3 code: MRT"
+L008678;Mauritius;"GEO code: 373
+ISO 3166-1 numeric code: 480
+ISO 3166-1 alpha-2 code: MU 
+ISO 3166-1 alpha-3 code: MUS"
+L008818;Melilla;"GEO code: 023
+ISO 3166-1 numeric code: -
+ISO 3166-1 alpha-2 code: -
+ISO 3166-1 alpha-3 code: -"
+L008680;Mexico;"GEO code: 412
+ISO 3166-1 numeric code: 484
+ISO 3166-1 alpha-2 code: MX 
+ISO 3166-1 alpha-3 code: MEX"
+L008681;Micronesia;"GEO code: 823
+ISO 3166-1 numeric code: 583
+ISO 3166-1 alpha-2 code: FM
+ISO 3166-1 alpha-3 code: FSM"
+L008682;Moldova;"GEO code: 074
+ISO 3166-1 numeric code: 498
+ISO 3166-1 alpha-2 code: MD 
+ISO 3166-1 alpha-3 code: MDA"
+L008684;Mongolia;"GEO code: 716
+ISO 3166-1 numeric code: 496
+ISO 3166-1 alpha-2 code: MN 
+ISO 3166-1 alpha-3 code: MNG"
+L008685;Montenegro;"GEO code: 097
+ISO 3166-1 numeric code: 499
+ISO 3166-1 alpha-2 code: ME 
+ISO 3166-1 alpha-3 code: MNE 
+"
+L008686;Montserrat;"GEO code: 470
+ISO 3166-1 numeric code: 500
+ISO 3166-1 alpha-2 code: MS 
+ISO 3166-1 alpha-3 code: MSR"
+L008673;Morocco;"GEO code: 204
+ISO 3166-1 numeric code: 504
+ISO 3166-1 alpha-2 code: MA 
+ISO 3166-1 alpha-3 code: MAR"
+L008687;Mozambique;"GEO code: 366
+ISO 3166-1 numeric code: 508
+ISO 3166-1 alpha-2 code: MZ 
+ISO 3166-1 alpha-3 code: MOZ"
+L008688;Myanmar;"GEO code: 676
+ISO 3166-1 numeric code: 104
+ISO 3166-1 alpha-2 code: MM 
+ISO 3166-1 alpha-3 code: MMR"
+L008689;Namibia;"GEO code: 389
+ISO 3166-1 numeric code: 516
+ISO 3166-1 alpha-2 code: NA 
+ISO 3166-1 alpha-3 code: NAM"
+L008690;Nauru;"GEO code: 803
+ISO 3166-1 numeric code: 520
+ISO 3166-1 alpha-2 code: NR 
+ISO 3166-1 alpha-3 code: NRU"
+L008694;Nepal;"GEO code: 672
+ISO 3166-1 numeric code: 524
+ISO 3166-1 alpha-2 code: NP 
+ISO 3166-1 alpha-3 code: NPL"
+L008696;New Caledonia;"GEO code: 809
+ISO 3166-1 numeric code: 540
+ISO 3166-1 alpha-2 code: NC 
+ISO 3166-1 alpha-3 code: NCL"
+L008697;New Zealand;"GEO code: 804
+ISO 3166-1 numeric code: 554
+ISO 3166-1 alpha-2 code: NZ 
+ISO 3166-1 alpha-3 code: NZL"
+L008695;Nicaragua;"GEO code: 432
+ISO 3166-1 numeric code: 558
+ISO 3166-1 alpha-2 code: NI 
+ISO 3166-1 alpha-3 code: NIC"
+L008698;Niger;"GEO code: 240
+ISO 3166-1 numeric code: 562
+ISO 3166-1 alpha-2 code: NE 
+ISO 3166-1 alpha-3 code: NER"
+L008699;Nigeria;"GEO code: 288
+ISO 3166-1 numeric code: 566
+ISO 3166-1 alpha-2 code: NG 
+ISO 3166-1 alpha-3 code: NGA"
+L008700;Niue;"GEO code: 838
+ISO 3166-1 numeric code: 570
+ISO 3166-1 alpha-2 code: NU 
+ISO 3166-1 alpha-3 code: NIU"
+L008705;Norfolk Island;"GEO code: 836
+ISO 3166-1 numeric code: 574
+ISO 3166-1 alpha-2 code: NF
+ISO 3166-1 alpha-3 code: NFK"
+L008703;North Korea;"GEO code: 724
+ISO 3166-1 numeric code: 408
+ISO 3166-1 alpha-2 code: KP 
+ISO 3166-1 alpha-3 code: PRK"
+L008702;Northern Mariana Islands;"GEO code: 820
+ISO 3166-1 numeric code: 580
+ISO 3166-1 alpha-2 code: MP 
+ISO 3166-1 alpha-3 code: MNP"
+L008704;Norway;"GEO code: 028
+ISO 3166-1 numeric code: 578
+ISO 3166-1 alpha-2 code: NO 
+ISO 3166-1 alpha-3 code: NOR"
+L008708;Oman;"GEO code: 649
+ISO 3166-1 numeric code: 512
+ISO 3166-1 alpha-2 code: OM 
+ISO 3166-1 alpha-3 code: OMN"
+L008710;Pakistan;"GEO code: 662
+ISO 3166-1 numeric code: 586
+ISO 3166-1 alpha-2 code: PK 
+ISO 3166-1 alpha-3 code: PAK"
+L008711;Palau;"GEO code: 825
+ISO 3166-1 numeric code: 585
+ISO 3166-1 alpha-2 code: PW 
+ISO 3166-1 alpha-3 code: PLW"
+L008712;Occupied Palestinian Territory;"GEO code: 625
+ISO 3166-1 numeric code: 275
+ISO 3166-1 alpha-2 code: PS
+ISO 3166-1 alpha-3 code: PSE"
+L008713;Panama;"GEO code: 442
+ISO 3166-1 numeric code: 591
+ISO 3166-1 alpha-2 code: PA 
+ISO 3166-1 alpha-3 code: PAN"
+L008714;Papua New Guinea;"GEO code: 801
+ISO 3166-1 numeric code: 598
+ISO 3166-1 alpha-2 code: PG 
+ISO 3166-1 alpha-3 code: PNG"
+L008715;Paraguay;"GEO code: 520
+ISO 3166-1 numeric code: 600
+ISO 3166-1 alpha-2 code: PY 
+ISO 3166-1 alpha-3 code: PRY"
+L008716;Peru;"GEO code: 504
+ISO 3166-1 numeric code: 604
+ISO 3166-1 alpha-2 code: PE 
+ISO 3166-1 alpha-3 code: PER"
+L008603;Philippines;"GEO code: 708
+ISO 3166-1 numeric code: 608
+ISO 3166-1 alpha-2 code: PH 
+ISO 3166-1 alpha-3 code: PHL"
+L008717;Pitcairn;"GEO code: 813
+ISO 3166-1 numeric code: 612
+ISO 3166-1 alpha-2 code: PN 
+ISO 3166-1 alpha-3 code: PCN"
+L008718;Poland;"GEO code: 060
+ISO 3166-1 numeric code: 616
+ISO 3166-1 alpha-2 code: PL 
+ISO 3166-1 alpha-3 code: POL"
+L008719;Portugal;"GEO code: 010
+ISO 3166-1 numeric code: 620
+ISO 3166-1 alpha-2 code: PT 
+ISO 3166-1 alpha-3 code: PRT"
+L008647;Qatar;"GEO code: 644
+ISO 3166-1 numeric code: 634
+ISO 3166-1 alpha-2 code: QA 
+ISO 3166-1 alpha-3 code: QAT"
+L008723;Romania;"GEO code: 066
+ISO 3166-1 numeric code: 642
+ISO 3166-1 alpha-2 code: RO 
+ISO 3166-1 alpha-3 code: ROU"
+L008724;Russia;"GEO code: 075
+ISO 3166-1 numeric code: 643
+ISO 3166-1 alpha-2 code: RU 
+ISO 3166-1 alpha-3 code: RUS 
+"
+L008726;Rwanda;"GEO code: 324
+ISO 3166-1 numeric code: 646
+ISO 3166-1 alpha-2 code: RW 
+ISO 3166-1 alpha-3 code: RWA"
+L008792;Saint Barthélemy;"GEO code: 466
+ISO 3166-1 numeric code: 652
+ISO 3166-1 alpha-2 code: BL 
+ISO 3166-1 alpha-3 code: BLM
+From 2013"
+L008741;Saint Helena,Ascension,Tristan da Cunha;"GEO code: 329
+ISO 3166-1 numeric code: 654
+ISO 3166-1 alpha-2 code: SH 
+ISO 3166-1 alpha-3 code: SHN"
+L008727;St Kitts and Nevis;"GEO code: 449
+ISO 3166-1 numeric code: 659
+ISO 3166-1 alpha-2 code: KN 
+ISO 3166-1 alpha-3 code: KNA"
+L008742;Saint Lucia;"GEO code: 465
+ISO 3166-1 numeric code: 662
+ISO 3166-1 alpha-2 code: LC 
+ISO 3166-1 alpha-3 code: LCA"
+L008728;St Pierre and Miquelon;"GEO code: 408
+ISO 3166-1 numeric code: 666
+ISO 3166-1 alpha-2 code: PM 
+ISO 3166-1 alpha-3 code: SPM"
+L008729;St Vincent and the Grenadines;"GEO code: 467
+ISO 3166-1 numeric code: 670
+ISO 3166-1 alpha-2 code: VC 
+ISO 3166-1 alpha-3 code: VCT"
+L008731;Samoa;"GEO code: 819
+ISO 3166-1 numeric code: 882
+ISO 3166-1 alpha-2 code: WS 
+ISO 3166-1 alpha-3 code: WSM"
+L008732;San Marino;"GEO code: 047
+ISO 3166-1 numeric code: 674
+ISO 3166-1 alpha-2 code: SM 
+ISO 3166-1 alpha-3 code: SMR"
+L008733;Sao Tome and Principe;"GEO code: 311
+ISO 3166-1 numeric code: 678
+ISO 3166-1 alpha-2 code: ST
+ISO 3166-1 alpha-3 code: STP"
+L008734;Saudi Arabia;"GEO code: 632
+ISO 3166-1 numeric code: 682
+ISO 3166-1 alpha-2 code: SA 
+ISO 3166-1 alpha-3 code: SAU"
+L008735;Senegal;"GEO code: 248
+ISO 3166-1 numeric code: 686
+ISO 3166-1 alpha-2 code: SN 
+ISO 3166-1 alpha-3 code: SEN"
+L008736;Serbia;"GEO code: 098
+ISO 3166-1 numeric code: 688
+ISO 3166-1 alpha-2 code: RS 
+ISO 3166-1 alpha-3 code: SRB 
+"
+L008738;Seychelles;"GEO code: 355
+ISO 3166-1 numeric code: 690
+ISO 3166-1 alpha-2 code: SC
+ISO 3166-1 alpha-3 code: SYC
+"
+L008739;Sierra Leone;"GEO code: 264
+ISO 3166-1 numeric code: 694
+ISO 3166-1 alpha-2 code: SL 
+ISO 3166-1 alpha-3 code: SLE"
+L008740;Singapore;"GEO code: 706
+ISO 3166-1 numeric code: 702
+ISO 3166-1 alpha-2 code: SG 
+ISO 3166-1 alpha-3 code: SGP"
+L008743;Sint Maarten (Dutch part);"GEO code: 479
+ISO 3166-1 numeric code: 534
+ISO 3166-1 alpha-2 code: SX
+ISO 3166-1 alpha-3 code: SXM
+From 2013"
+L008745;Slovakia;"GEO code: 063
+ISO 3166-1 numeric code: 703
+ISO 3166-1 alpha-2 code: SK 
+ISO 3166-1 alpha-3 code: SVK"
+L008744;Slovenia;"GEO code: 091
+ISO 3166-1 numeric code: 705
+ISO 3166-1 alpha-2 code: SI 
+ISO 3166-1 alpha-3 code: SVN"
+L008730;Solomon Islands;"GEO code: 806
+ISO 3166-1 numeric code: 090
+ISO 3166-1 alpha-2 code: SB 
+ISO 3166-1 alpha-3 code: SLB"
+L008747;Somalia;"GEO code: 342
+ISO 3166-1 numeric code: 706
+ISO 3166-1 alpha-2 code: SO 
+ISO 3166-1 alpha-3 code: SOM 
+"
+L008787;South Africa;"GEO code: 388
+ISO 3166-1 numeric code: 710
+ISO 3166-1 alpha-2 code: ZA 
+ISO 3166-1 alpha-3 code: ZAF 
+"
+L008788;South Georgia and South Sandwich Islands;"GEO code: 893
+ISO 3166-1 numeric code: 239
+ISO 3166-1 alpha-2 code: GS 
+ISO 3166-1 alpha-3 code: SGS"
+L008789;South Korea;"GEO code: 728
+ISO 3166-1 numeric code: 410
+ISO 3166-1 alpha-2 code: KR 
+ISO 3166-1 alpha-3 code: KOR"
+L008786;South Sudan;"GEO code: 225
+ISO 3166-1 numeric code: 728
+ISO 3166-1 alpha-2 code: SS
+ISO 3166-1 alpha-3 code: SSD
+From 2013"
+L008749;Spain;"GEO code: 011
+ISO 3166-1 numeric code: 724
+ISO 3166-1 alpha-2 code: ES
+ISO 3166-1 alpha-3 code: ESP 
+"
+L008750;Sri Lanka;"GEO code: 669
+ISO 3166-1 numeric code: 144
+ISO 3166-1 alpha-2 code: LK 
+ISO 3166-1 alpha-3 code: LKA"
+L008746;Sudan;"GEO code: 224
+ISO 3166-1 numeric code: 736
+ISO 3166-1 alpha-2 code: SD 
+ISO 3166-1 alpha-3 code: SDN 
+Up to and including 2012 South Sudan included"
+L008751;Suriname;"GEO code: 492
+ISO 3166-1 numeric code: 740
+ISO 3166-1 alpha-2 code: SR 
+ISO 3166-1 alpha-3 code: SUR"
+L008752;Swaziland;"GEO code: 393
+ISO 3166-1 numeric code: 748
+ISO 3166-1 alpha-2 code: SZ 
+ISO 3166-1 alpha-3 code: SWZ"
+L008790;Sweden;"GEO code: 030
+ISO 3166-1 numeric code: 752
+ISO 3166-1 alpha-2 code: SE 
+ISO 3166-1 alpha-3 code: SWE"
+L008791;Switzerland;"GEO code: 039
+ISO 3166-1 numeric code: 756
+ISO 3166-1 alpha-2 code: CH 
+ISO 3166-1 alpha-3 code: CHE"
+L008753;Syria;"GEO code: 608
+ISO 3166-1 numeric code: 760
+ISO 3166-1 alpha-2 code: SY 
+ISO 3166-1 alpha-3 code: SYR"
+L008755;Taiwan;"GEO code: 736
+ISO 3166-1 numeric code: 158
+ISO 3166-1 alpha-2 code: TW
+ISO 3166-1 alpha-3 code: TWN"
+L008754;Tajikistan;"GEO code: 082
+ISO 3166-1 numeric code: 762
+ISO 3166-1 alpha-2 code: TJ 
+ISO 3166-1 alpha-3 code: TJK"
+L008756;Tanzania;"GEO code: 352
+ISO 3166-1 numeric code: 834
+ISO 3166-1 alpha-2 code: TZ 
+ISO 3166-1 alpha-3 code: TZA"
+L008757;Thailand;"GEO code: 680
+ISO 3166-1 numeric code: 764
+ISO 3166-1 alpha-2 code: TH 
+ISO 3166-1 alpha-3 code: THA"
+L008758;Timor-Leste;"GEO code: 626
+ISO 3166-1 numeric code: 626
+ISO 3166-1 alpha-2 code: TL 
+ISO 3166-1 alpha-3 code: TLS"
+L008759;Togo;"GEO code: 280
+ISO 3166-1 numeric code: 768
+ISO 3166-1 alpha-2 code: TG 
+ISO 3166-1 alpha-3 code: TGO"
+L008760;Tokelau;"GEO code: 839
+ISO 3166-1 numeric code: 772
+ISO 3166-1 alpha-2 code: TK 
+ISO 3166-1 alpha-3 code: TKL"
+L008761;Tonga;"GEO code: 817
+ISO 3166-1 numeric code: 776
+ISO 3166-1 alpha-2 code: TO 
+ISO 3166-1 alpha-3 code: TON"
+L008762;Trinidad and Tobago;"GEO code: 472
+ISO 3166-1 numeric code: 780
+ISO 3166-1 alpha-2 code: TT 
+ISO 3166-1 alpha-3 code: TTO"
+L008765;Tunisia;"GEO code: 212
+ISO 3166-1 numeric code: 788
+ISO 3166-1 alpha-2 code: TN 
+ISO 3166-1 alpha-3 code: TUN"
+L008766;Turkey;"GEO code: 052
+ISO 3166-1 numeric code: 792
+ISO 3166-1 alpha-2 code: TR 
+ISO 3166-1 alpha-3 code: TUR"
+L008767;Turkmenistan;"GEO code: 080
+ISO 3166-1 numeric code: 795
+ISO 3166-1 alpha-2 code: TM 
+ISO 3166-1 alpha-3 code: TKM"
+L008768;Turks and Caicos Islands;"GEO code: 454
+ISO 3166-1 numeric code: 796
+ISO 3166-1 alpha-2 code: TC 
+ISO 3166-1 alpha-3 code: TCA"
+L008769;Tuvalu;"GEO code: 807
+ISO 3166-1 numeric code: 798
+ISO 3166-1 alpha-2 code: TV 
+ISO 3166-1 alpha-3 code: TUV"
+L008770;Uganda;"GEO code: 350
+ISO 3166-1 numeric code: 800
+ISO 3166-1 alpha-2 code: UG 
+ISO 3166-1 alpha-3 code: UGA"
+L008706;Ukraine;"GEO code: 072
+ISO 3166-1 numeric code: 804
+ISO 3166-1 alpha-2 code: UA 
+ISO 3166-1 alpha-3 code: UKR"
+L008777;United Arab Emirates;"GEO code: 647
+ISO 3166-1 numeric code: 784
+ISO 3166-1 alpha-2 code: AE 
+ISO 3166-1 alpha-3 code: ARE 
+Abu Dhabi, Ajman, Dubai, Fujairah, Ras al Khaimah, Sharjah and Umm al Qaiwain"
+L008776;United Kingdom;"GEO code: 006
+ISO 3166-1 numeric code: 826
+ISO 3166-1 alpha-2 code: GB 
+ISO 3166-1 alpha-3 code: GBR 
+Great Britain, Northern Ireland, Channel Islands and Isle of Man"
+L008778;United States;"GEO code: 400
+ISO 3166-1 numeric code: 840
+ISO 3166-1 alpha-2 code: US 
+ISO 3166-1 alpha-3 code: USA"
+L008779;United States Minor Outlying Islands;"GEO code: 832
+ISO 3166-1 numeric code: 581
+ISO 3166-1 alpha-2 code: UM 
+ISO 3166-1 alpha-3 code: UMI"
+L008771;Uruguay;"GEO code: 524
+ISO 3166-1 numeric code: 858
+ISO 3166-1 alpha-2 code: UY 
+ISO 3166-1 alpha-3 code: URY"
+L008707;Uzbekistan;"GEO code: 081
+ISO 3166-1 numeric code: 860
+ISO 3166-1 alpha-2 code: UZ 
+ISO 3166-1 alpha-3 code: UZB"
+L008772;Vanuatu;"GEO code: 816
+ISO 3166-1 numeric code: 548
+ISO 3166-1 alpha-2 code: VU 
+ISO 3166-1 alpha-3 code: VUT"
+L008773;Vatican City;"GEO code: 045
+ISO 3166-1 numeric code: 336
+ISO 3166-1 alpha-2 code: VA 
+ISO 3166-1 alpha-3 code: VAT"
+L008774;Venezuela;"GEO code: 484
+ISO 3166-1 numeric code: 862
+ISO 3166-1 alpha-2 code: VE
+ISO 3166-1 alpha-3 code: VEN
+"
+L008780;Viet-Nam;"GEO code: 690
+ISO 3166-1 numeric code: 704
+ISO 3166-1 alpha-2 code: VN 
+ISO 3166-1 alpha-3 code: VNM"
+L008782;Wallis and Futuna;"GEO code: 811
+ISO 3166-1 numeric code: 876
+ISO 3166-1 alpha-2 code: WF
+ISO 3166-1 alpha-3 code: WLF"
+L008813;Western Sahara;"GEO code: 229
+ISO 3166-1 numeric code: 732
+ISO 3166-1 alpha-2 code: EH
+ISO 3166-1 alpha-3 code: ESH
+From 2013"
+L008640;Yemen;"GEO code: 653
+ISO 3166-1 numeric code: 887
+ISO 3166-1 alpha-2 code: YE 
+ISO 3166-1 alpha-3 code: YEM"
+L008784;Zambia;"GEO code: 378
+ISO 3166-1 numeric code: 894
+ISO 3166-1 alpha-2 code: ZM 
+ISO 3166-1 alpha-3 code: ZMB"
+L008785;Zimbabwe;"GEO code: 382
+ISO 3166-1 numeric code: 716
+ISO 3166-1 alpha-2 code: ZW
+ISO 3166-1 alpha-3 code: ZWE
+"

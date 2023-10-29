@@ -1,0 +1,350 @@
+Key;Title;Description
+T001082;Total goods;
+A018524;0 Food and live animals;
+A018525;00 Live animals other than animals of division 03;
+A018526;001 Live animals other than animals of division 03;
+A018527;01 Meat and meat preparations;
+A018529;011 Meat of bovine animals, fresh, chilled or frozen;
+A018533;012 Other meat and edible meat offal;
+A018537;"016 Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal";
+A018538;017 Meat and edible meat offal, prepa...;017 Meat and edible meat offal, prepared or preserved, n.e.s.
+A018539;02 Dairy products and birds' eggs;
+A018544;022 Milk and cream and milk products ...;022 Milk and cream and milk products other than butter or cheese
+A018548;023 Butter and other fats and oils de...;023 Butter and other fats and oils derived from milk
+A018552;024 Cheese and curd;
+A018559;"025 Birds' eggs; egg albumin";
+A018590;03 Fish (not marine mammals), crustac...;03 Fish (not marine mammals), crustaceans, molluscs and aquatic invertebrates and preparations thereof
+A018600;034 Fish, fresh (live or dead), chill...;034 Fish, fresh (live or dead), chilled or frozen
+A018606;"035 Fish, dried, salted or in brine; ...";"035 Fish, dried, salted or in brine; smoked fish (whether or not cooked before or during the smoking process)"
+A018609;036 Crustaceans, molluscs and aquatic...;036 Crustaceans, molluscs and aquatic invertebrates, fresh, chilled or preserved
+A018610;037 Preperations of fish, crustaceans...;037 Preperations of fish, crustaceans, molluscs and other aquatic invertebrates n.e.s.
+A018611;04 Cereals and cereal preparations;
+A018613;041 Wheat (including spelt) and mesli...;041 Wheat (including spelt) and meslin, unmilled
+A018616;042 Rice;
+A018620;043 Barley, unmilled;
+A018623;044 Maize (not including sweet corn),...;044 Maize (not including sweet corn), unmilled
+A018624;045 Cereals, unmilled (other than whe...;045 Cereals, unmilled (other than wheat, rice barley and maize)
+A018625;046 Meal and flour of wheat and flour...;046 Meal and flour of wheat and flour of meslin
+A018626;047 Other cereal meals and flours;
+A018627;048 Cereal preparations and preperati...;048 Cereal preparations and preperations of flour or starch of fruits or vegetables
+A018628;05 Vegetables and fruit;
+A018646;054 Vegetables, fresh, chilled, froze...;"054 Vegetables, fresh, chilled, frozen or simply preserved (including dried leguminous vegetables); roots, tubers and other edible vegetable products, n.e.s., fresh or dried"
+A018654;056 Vegetables, roots and tubers, pre...;056 Vegetables, roots and tubers, prepared or preserved, n.e.s.
+A018657;057 Fruit and nuts (not including oil...;057 Fruit and nuts (not including oil nuts), fresh or dried
+A018665;058 Fruit, preserved, and fruit prepa...;058 Fruit, preserved, and fruit preparations (excluding fruit juices)
+A018670;059 Fruit juices and vegetables juice...;059 Fruit juices and vegetables juices, unfermented
+A018677;06 Sugars, sugar preparations and honey;
+A018679;061 Sugars, molasses and honey;
+A018684;062 Sugar confectionery;
+A018742;07 Coffee, tea, cocoa, spices and man...;07 Coffee, tea, cocoa, spices and manufactures thereof
+A018744;071 Coffee and coffee substitutes;
+A018752;072 Cocoa;
+A018762;073 Chocolate and other food preparat...;073 Chocolate and other food preparations containing cocoa, n.e.s.
+A018768;074 Tea and maté;
+A018779;075 Spices;
+A018808;08 Feeding stuff for animals (not inc...;08 Feeding stuff for animals (not including unmilled cereals)
+A018810;081 Feeding stuff for animals (not in...;081 Feeding stuff for animals (not including unmilled cereals)
+A018850;09 Miscellaneous edible products and ...;09 Miscellaneous edible products and preparations
+A018852;091 Margarine and shortening;
+A018863;098 Edible products and preparations,...;098 Edible products and preparations, n.e.s.
+A018528;1 Beverages and tobacco;
+A018530;11 Beverages;
+A018531;111 Non-alcoholic beverages, n.e.s.;
+A018532;112 Alcoholic beverages;
+A018534;12 Tobacco and tobacco manufactures;
+A018535;"121 Tobacco, unmanufactured; tobacco ...";"121 Tobacco, unmanufactured; tobacco refuse"
+A018536;122 Tobacco, manufactured (whether or...;122 Tobacco, manufactured (whether or not containing tobacco substitutes)
+A018540;2 Crude materials, inedible, except f...;2 Crude materials, inedible, except fuels
+A018541;21 Hides, skins and furskins, raw;
+A018542;211 Hides and skins (except furskins)...;211 Hides and skins (except furskins), raw
+A018543;212 Furskins, raw;
+A018545;22 Oil seeds and oleaginous fruits;
+A018546;222 Oil seeds and oleaginous fruits o...;"222 Oil seeds and oleaginous fruits of a kind used for the extraction of /""/soft/""/ fixed vegetable oils (excluding flours and meals)"
+A018547;223 Oil seeds and oleaginous fruits, ...;223 Oil seeds and oleaginous fruits, whole or broken, of a kind used for the extraction of other fixed vegetable oils (including flours and meals of oil-seeds or eleaginous fruit, n.e.s.
+A018549;23 Crude rubber (including synthetic ...;23 Crude rubber (including synthetic and reclaimed)
+A018550;231 Natural rubber and similar natura...;231 Natural rubber and similar natural gums, in primary forms (including latex) or in plates, sheets or strip
+A018551;"232 Synthetic rubber; reclaimed rubbe...";"232 Synthetic rubber; reclaimed rubber; waste, parings and scrap of unhardened rubber"
+A018553;24 Cork and wood;
+A018554;244 Cork, natural, raw and waste (inc...;244 Cork, natural, raw and waste (including natural cork in blocks or sheets)
+A018555;245 Fuel wood (excluding wood waste) ...;245 Fuel wood (excluding wood waste) and wood charcoal
+A018556;246 Wood in chips or particles and wo...;246 Wood in chips or particles and wood waste
+A018557;247 Wood in the rough or roughly squared;
+A018558;248 Wood, simply worked, and railway ...;248 Wood, simply worked, and railway sleepers of wood
+A018560;25 Pulp and waste paper;
+A018561;251 Pulp and waste paper;
+A018562;26 Textile fibres (other than combed ...;26 Textile fibres (other than combed wool) and their wastes (notmanufactured into yarn or fabric)
+A018563;261 Silk;
+A018564;263 Cotton;
+A018565;264 Jute, raw or processed but not spun;
+A018566;265 Other vegetable textile fibres, r...;265 Other vegetable textile fibres, raw or processed but not spun
+A018567;266 Synthetic fibres suitable for spi...;266 Synthetic fibres suitable for spinning
+A018568;267 Other man-made fibres suitable fo...;"267 Other man-made fibres suitable for spinning; waste of man-made fibres"
+A018569;268 Wool and other animal hair (inclu...;268 Wool and other animal hair (including wool tops)
+A018570;269 Worn clothing and other worn text...;"269 Worn clothing and other worn textile articles; rags"
+A018571;27 Crude fertilizers, other than thos...;27 Crude fertilizers, other than those of division 56, and crude minerals (excluding coal, petroleum and precious stones)
+A018572;272 Fertilizers, crude, other than th...;272 Fertilizers, crude, other than those of division 56
+A018573;273 Stone, sand and gravel;
+A018574;274 Sulphur and unroasted iron pyrites;
+A018575;277 Natural abrasives, n.e.s. (includ...;277 Natural abrasives, n.e.s. (including industrial diamonds)
+A018576;278 Other crude minerals;
+A018577;28 Metalliferous ores and metal scrap;
+A018578;281 Iron ore and concentrates;
+A018579;"282 Ferrous waste and scrap; remeltin...";"282 Ferrous waste and scrap; remelting ingots of iron or steel"
+A018580;"283 Copper ores and concentrates; cop...";"283 Copper ores and concentrates; copper mattes; cement copper"
+A018581;"284 Nickel ores and concentrates; nic...";"284 Nickel ores and concentrates; nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy"
+A018582;285 Aluminium ores and concentrates (...;285 Aluminium ores and concentrates (including alumina)
+A018583;286 Ores and concentrates of uranium ...;286 Ores and concentrates of uranium or thorium
+A018584;287 Ores and concentrates of base met...;287 Ores and concentrates of base metals, n.e.s.
+A018585;288 Non-ferrous base metal waste and ...;288 Non-ferrous base metal waste and scrap, n.e.s.
+A018586;289 Ores and concentrates of precious...;"289 Ores and concentrates of precious metals; waste, scrap and sweepings of precious metals (other than of gold)"
+A018587;29 Crude animal and vegetable materia...;29 Crude animal and vegetable materials, n.e.s.
+A018588;291 Crude animal materials, n.e.s.;
+A018589;292 Crude vegetable materials, n.e.s.;
+A018591;3 Mineral fuels, lubricants and relat...;3 Mineral fuels, lubricants and related materials
+A018592;32 Coal, coke and briquettes;
+A018593;321 Coal, whether or not pulverized, ...;321 Coal, whether or not pulverized, but not agglomerated
+A018594;322 Briquettes, lignite and peat;
+A018595;325 Coke and semi-coke of coal, of li...;"325 Coke and semi-coke of coal, of lignite or of peat; retort carbon"
+A018596;33 Petroleum, petroleum products and ...;33 Petroleum, petroleum products and related materials
+A018597;333 Petroleum oils and oils obtained ...;333 Petroleum oils and oils obtained from bituminous minerals, crude
+A018598;334 Petroleum oils and oils obtained ...;334 Petroleum oils and oils obtained from bituminous minerals, other than crude
+A018599;335 Residual petroleum products, n.e....;335 Residual petroleum products, n.e.s. and related materials
+A018601;34 Gas, natural and manufactured;
+A018602;342 Liquefied propane and butane;
+A018603;343 Natural gas, whether or not lique...;343 Natural gas, whether or not liquefied
+A018604;344 Petroleum gases and other gaseous...;344 Petroleum gases and other gaseous hydrocarbons, n.e.s.
+A018605;345 Coal gas, water gas, producer gas...;345 Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons
+A018607;35 Electric current;
+A018608;351 Electric current;
+A018612;4 Animal and vegetable oils, fats and...;4 Animal and vegetable oils, fats and waxes
+A018614;41 Animal oils and fats;
+A018615;411 Animal oils and fats;
+A018617;42 Fixed vegetable fats and oils, cru...;42 Fixed vegetable fats and oils, crude, refined or fractionated
+A018618;"421 Fixed vegetable fats and oils, /""/s...";"421 Fixed vegetable fats and oils, /""/soft/""/, crude, refined or fractionated"
+A018619;422 Fixed vegetable fats and oils, cr...;"422 Fixed vegetable fats and oils, crude, refined or fractionated other than /""/soft/""/"
+A018621;43 Animal or vegetable fats and oils,...;"43 Animal or vegetable fats and oils, processed; waxes of animal or vegetable origin; inedible mixtures or prepartions of animal or vegetable fats or oils, n.e.s."
+A018622;431 Animal or vegetable fats and oils...;"431 Animal or vegetable fats and oils, processed; waxes; inedible mixtures or preparations of animal or vegetable fats or oils, n.e.s."
+A018629;5 Chemicals and related products, n.e.s.;
+A018630;51 Organic chemicals;
+A018631;511 Hydrocarbons, n.e.s.;
+A018632;512 Alcohols, phenols, phenol-alcohol...;512 Alcohols, phenols, phenol-alcohols, and their halogenated, sulphonated, nitraded or nitrosated derivatives
+A018633;513 Carboxylic acids;
+A018634;514 Nitrogen-function compounds;
+A018635;515 Organo-inorganic compounds, heter...;515 Organo-inorganic compounds, heterocyclic compounds, nucleic acids and their salts
+A018636;516 Other organic chemicals;
+A018637;52 Inorganic chemicals;
+A018638;522 Inorganic chemical elements, oxid...;522 Inorganic chemical elements, oxides and halogen salts
+A018639;523 Salts and peroxysalts, of inorgan...;523 Salts and peroxysalts, of inorganic acids and metals
+A018640;"524 Other inorganic chemicals; organi...";"524 Other inorganic chemicals; organic and inorganic compounds of precious metals"
+A018641;525 Radioactive and associated materials;
+A018642;53 Dyeing, tanning and colouring mate...;53 Dyeing, tanning and colouring materials
+A018643;531 Synthetic organic colouring matte...;531 Synthetic organic colouring matter and colour lakes, and preparations based thereon
+A018644;532 Dyeing and tanning extracts, and ...;532 Dyeing and tanning extracts, and synthetic tanning materials
+A018645;533 Pigments, paints, varnishes and r...;533 Pigments, paints, varnishes and related materials
+A018647;54 Medicinal and pharmaceutical products;
+A018648;541 Medicinal and pharmaceutical prod...;541 Medicinal and pharmaceutical products, other than medicaments of group 542
+A018649;542 Medicaments (including veterinary...;542 Medicaments (including veterinary medicaments)
+A018650;55 Essential oils and resinoids and p...;"55 Essential oils and resinoids and perfume materials; toilet, polishing and cleansing preparations"
+A018651;551 Essential oils, perfume and flavo...;551 Essential oils, perfume and flavour materials
+A018652;553 Perfumery, cosmetics or toilet pr...;553 Perfumery, cosmetics or toilet preparations (excluding soaps)
+A018653;554 Soap, cleansing and polishing pre...;554 Soap, cleansing and polishing preparations
+A018655;56 Fertilizers (other than those of g...;56 Fertilizers (other than those of group 272)
+A018656;562 Fertilizers (other than those of ...;562 Fertilizers (other than those of group 272)
+A018658;57 Plastics in primary forms;
+A018659;571 Polymers of ethylene, in primary ...;571 Polymers of ethylene, in primary forms
+A018660;572 Polymers of styrene, in primary f...;572 Polymers of styrene, in primary forms
+A018661;573 Polymers of vinyl chloride or of ...;573 Polymers of vinyl chloride or of other halogenated olefins, in primary forms
+A018662;574 Polyacetals, other polyethers and...;"574 Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins and other polyesters, in primary forms"
+A018663;575 Other plastics, in primary forms;
+A018664;579 Waste, parings and scrap, of plas...;579 Waste, parings and scrap, of plastics
+A018666;58 Plastics in non-primary forms;
+A018667;581 Tubes, pipes and hoses of plastics;
+A018668;582 Plates, sheets, film, foil and st...;582 Plates, sheets, film, foil and strip, of plastics
+A018669;583 Monofilament, rods, sticks and pr...;583 Monofilament, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics
+A018671;59 Chemical materials and products, n...;59 Chemical materials and products, n.e.s.
+A018672;591 Insecticides, rodenticides, fungi...;591 Insecticides, rodenticides, fungicides, herbicides anti-sprouting products and plant-growth regulators, disinfectants and similar products
+A018673;592 Starches, inulin and wheat gluten...;"592 Starches, inulin and wheat gluten; albuminoidal substances; glues"
+A018674;593 Explosives and pyrotechnic products;
+A018675;597 Prepared additives for mineral oi...;"597 Prepared additives for mineral oils and the like; prepared liquids for hydraulic transmission; anti-freezing preparations and prepared de-icing fluids; lubricating preparations"
+A018676;598 Miscellaneous chemical products, ...;598 Miscellaneous chemical products, n.e.s.
+A042494;599 Residual products of the chemical...;"599 Residual products of the chemical or allied industries, n.e.s.; municipal waste; sewage sludge; other wastes"
+A018678;6 Manufactured goods classified chief...;6 Manufactured goods classified chiefly by material
+A045276;60 Components of complete industrial ...;60 Components of complete industrial plants of section 6
+A045277;600 Components of complete industrial...;600 Components of complete industrial plants of division 60
+A018680;61 Leather, leather manufactures, n.e...;61 Leather, leather manufactures, n.e.s., and dressed furskins
+A018681;611 Leather;
+A018682;612 Manufactures of leather or of com...;"612 Manufactures of leather or of composition leather, n.e.s.; saddlery and harness"
+A018683;613 Furskins, tanned or dressed (excl...;613 Furskins, tanned or dressed (excluding articles of furskins, artificial fur and articles thereof)
+A018685;62 Rubber manufactures, n.e.s.;
+A018686;621 Materials of rubber (e.g., pastes...;621 Materials of rubber (e.g., pastes, plates, sheets, rods, thread, tubes, of rubber)
+A018687;625 Rubber tyres, interchangeable tyr...;625 Rubber tyres, interchangeable tyre treads, tyre flaps and inner tubes for wheels of all kinds
+A018688;629 Articles of rubber, n.e.s.;
+A018689;63 Cork and wood manufactures (exclud...;63 Cork and wood manufactures (excluding furniture)
+A018690;633 Cork manufactures;
+A018691;634 Veneers, plywood, particle board,...;634 Veneers, plywood, particle board, and other wood, worked, n.e.s.
+A018692;635 Wood manufactures, n.e.s.;
+A018693;64 Paper, paperboard, and articles of...;64 Paper, paperboard, and articles of paper pulp, of paper or of paperboard
+A018694;641 Paper and paperboard;
+A018695;642 Paper and paperboard, cut to size...;642 Paper and paperboard, cut to size or shape, and articles of paper or paperboard
+A018696;65 Textile yarn, fabrics, made-up art...;65 Textile yarn, fabrics, made-up articles, n.e.s., and related products
+A018697;651 Textile yarn;
+A018698;652 Cotton fabrics, woven (not includ...;652 Cotton fabrics, woven (not including narrow or special fabrics)
+A018699;653 Fabrics, woven, of man-made texti...;653 Fabrics, woven, of man-made textile materials (not including narrow or special fabrics)
+A018700;654 Other textile fabrics, woven;
+A018701;655 Knitted or crocheted fabrics (inc...;655 Knitted or crocheted fabrics (including tubular knit fabrics, n.e.s., pile fabrics and openwork fabrics), n.e.s.
+A018702;656 Tulles, lace, embroidery, ribbons...;656 Tulles, lace, embroidery, ribbons, trimmings and other small wares
+A018703;657 Special yarns, special textile fa...;657 Special yarns, special textile fabrics and related products
+A018704;658 Made-up articles, wholly or chief...;658 Made-up articles, wholly or chiefly of textile materials, n.e.s.
+A018705;659 Floor coverings, etc.;
+A018706;66 Non-metallic mineral manufactures,...;66 Non-metallic mineral manufactures, n.e.s.
+A045278;660 Components of complete industrial...;660 Components of complete industrial plants of division 66
+A018707;661 Lime, cement, and fabricated cons...;661 Lime, cement, and fabricated construction materials (except glass and clay materials)
+A018708;662 Clay construction materials and r...;662 Clay construction materials and refractory constructions materials
+A018709;663 Mineral manufactures, n.e.s.;
+A018710;664 Glass;
+A018711;665 Glassware;
+A018712;666 Pottery;
+A018713;667 Pearls and precious or semi-preci...;667 Pearls and precious or semi-precious stones, unworked or worked
+A018714;67 Iron and steel;
+A018715;671 Pig-iron, spiegeleisen, sponge ir...;671 Pig-iron, spiegeleisen, sponge iron, iron or steel granules and powders and ferro-alloys
+A018716;672 Ingots and other primary forms, o...;"672 Ingots and other primary forms, of iron or steel; semi-finished products of iron or steel"
+A018717;673 Flat-rolled products of iron or n...;673 Flat-rolled products of iron or non-alloy steel, not clad, plated or coated
+A018718;674 Flat-rolled products of iron or n...;674 Flat-rolled products of iron or non-alloy steel, clad, plated or coated
+A018719;675 Flat-rolled products of alloy steel;
+A018720;676 Iron and steel bars, rods, angles...;676 Iron and steel bars, rods, angles, shapes and sections (including sheet pilling)
+A018721;677 Rails and railwaytrack constructi...;677 Rails and railwaytrack construction material, of iron or steel
+A018722;678 Wire of iron or steel;
+A018723;679 Tubes, pipes and hollow profiles,...;679 Tubes, pipes and hollow profiles, and tubes or pipe fittings, of iron or steel
+A018724;68 Non-ferrous metals;
+A018725;681 Silver, platinum and other metals...;681 Silver, platinum and other metals of the platinum group
+A018726;682 Copper;
+A018727;683 Nickel;
+A018728;684 Aluminium;
+A018729;685 Lead;
+A018730;686 Zinc;
+A018731;687 Tin;
+A018732;689 Miscellaneous non-ferrous base me...;689 Miscellaneous non-ferrous base metals employed in metallurgy, and cermets
+A018733;69 Manufactures of metals, n.e.s.;
+A018734;691 Structures and parts of structure...;691 Structures and parts of structures, n.e.s., of iron, steel or aluminium
+A018735;692 Metal containers for storage or t...;692 Metal containers for storage or transport
+A018736;693 Wire products (excluding insulate...;693 Wire products (excluding insulated electrical wiring) and fencing grills
+A018737;694 Nails, screws, nuts, bolts, rivet...;694 Nails, screws, nuts, bolts, rivets and the like, of iron, steel, copper or aluminium
+A018738;695 Tools for use in the hand or in m...;695 Tools for use in the hand or in machines
+A018739;696 Cutlery;
+A018740;697 Household equipment of base metal...;697 Household equipment of base metal, n.e.s.
+A018741;699 Manufactures of base metal, n.e.s.;
+A018743;7 Machinery and transport equipment;
+A045279;70 Components of complete industrial ...;70 Components of complete industrial plants of section 7
+A045280;700 Components of complete industrial...;700 Components of complete industrial plants of division 70
+A018745;71 Power-generating machinery and equ...;71 Power-generating machinery and equipment
+A018746;711 Steam or other vapour-generating ...;"711 Steam or other vapour-generating boilers, superheated water boilers, and auxiliary plant for use therewith; parts thereof"
+A018747;712 Steam turbines and other vapour t...;712 Steam turbines and other vapour turbines and parts thereof, n.e.s.
+A018748;713 Internal combustion piston engine...;713 Internal combustion piston engines and parts thereof, n.e.s.
+A018749;714 Engines and motors, non-electric ...;"714 Engines and motors, non-electric (other than those of groups 712, 713 and 718); parts, n.e.s. of these engines and motors"
+A018750;716 Rotating electric plant and parts...;716 Rotating electric plant and parts thereof, n.e.s.
+A018751;718 Power-generating machinery and pa...;718 Power-generating machinery and parts thereof, n.e.s.
+A018753;72 Machinery specialized for particul...;72 Machinery specialized for particular industries
+A018754;721 Agricultural machinery (excluding...;721 Agricultural machinery (excluding tractors) and parts thereof
+A018755;722 Tractors;
+A018756;723 Civil engineering and contractors...;"723 Civil engineering and contractors plant and equipment; parts thereof"
+A018757;724 Textile and leather machinery and...;724 Textile and leather machinery and parts thereof, n.e.s.
+A018758;725 Paper mill and pulp mill machiner...;"725 Paper mill and pulp mill machinery, paper cutting machines and other machinery for the manufacture of paper articles; parts thereof"
+A018759;726 Printing and bookbinding machiner...;726 Printing and bookbinding machinery and parts thereof
+A018760;727 Food-processing machines (excludi...;"727 Food-processing machines (excluding domestic); parts thereof"
+A018761;728 Other machinery and equipment spe...;"728 Other machinery and equipment specialized for particular industries; parts thereof, n.e.s."
+A018763;73 Metalworking machinery;
+A018764;731 Machine tools working by removing...;731 Machine tools working by removing metal or other material
+A018765;733 Machine tools for working metal, ...;733 Machine tools for working metal, sintered metal carbides or cermets, without removing material
+A018766;735 Parts, n.e.s. and accessories sui...;"735 Parts, n.e.s. and accessories suitable for use solely or principally with the machines falling within groups 731 and 733; tool holders for any type of tool for working in the hand"
+A018767;737 Metalworking machinery (other tha...;737 Metalworking machinery (other than machine-tools) and parts thereof, n.e.s.
+A018769;74 General industrial machinery and e...;74 General industrial machinery and equipment, n.e.s., and machine parts, n.e.s.
+A018770;741 Heating and cooling equipment and...;741 Heating and cooling equipment and parts thereof, n.e.s.
+A018771;742 Pumps for liquids, whether or not...;"742 Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; parts for such pumps and liquid elevators"
+A018772;"743 Other pumps; compressors, fans, v...";"743 Other pumps; compressors, fans, ventilating or recycling hoods incorporating a fan, centrifuges, filtering or purifying apparatus; parts thereof"
+A018773;744 Mechanical handling equipment and...;744 Mechanical handling equipment and parts thereof, n.e.s.
+A018774;745 Non-electrical machinery, tools a...;745 Non-electrical machinery, tools and mechanical apparatus and parts thereof, n.e.s.
+A018775;746 Ball- or roller bearings;
+A018776;747 Taps, cocks, valves and similar a...;747 Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like
+A018777;"748 Transmission shafts and cranks; b...";"748 Transmission shafts and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings; articulated link chain; parts thereof"
+A018778;749 Non-electric parts and accessorie...;749 Non-electric parts and accessories of machinery, n.e.s.
+A018780;75 Office machines and automatic data...;75 Office machines and automatic data-processing machines
+A018781;751 Office machines;
+A018782;752 Automatic data-processing machine...;752 Automatic data-processing machines and units thereof
+A018783;759 Parts and accessories (other than...;759 Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines falling within groups 751 and 752
+A018784;76 Telecommunications and sound-recor...;76 Telecommunications and sound-recording and reproducing apparatus and equipment
+A018785;761 Television receivers (including v...;761 Television receivers (including video monitors and video projectors), whether or not combined, in the same housing, with radio-broadcast receivers or sound or video recording or reproducing apparatus
+A018786;762 Radio-broadcast receivers, whethe...;762 Radio-broadcast receivers, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock
+A018787;"763 Sound recorders or reproducers; t...";"763 Sound recorders or reproducers; television image and sound recorders or reproducers; prepared unrecorded media"
+A018788;764 Telecommunications equipment, n.e...;764 Telecommunications equipment, n.e.s., and parts, n.e.s., and accessories of apparatus falling within division 76
+A018789;77 Electric machinery, n.e.s.;
+A018790;771 Electric power machinery (other t...;771 Electric power machinery (other than rotating electric plant of group 716) and parts thereof
+A018791;772 Electrical apparatus for making a...;772 Electrical apparatus for making and breaking electrical circuits, for the protection of electrical circuits or for making connections to or in electrical circuits
+A018792;773 Equipment for distributing electr...;773 Equipment for distributing electricity, n.e.s.
+A018793;774 Electrodiagnostic apparatus for m...;774 Electrodiagnostic apparatus for medical, surgical, dental or veterinary purposes, and radiological apparatus
+A018794;775 Household-type, electrical and no...;775 Household-type, electrical and non-electrical equipment, n.e.s.
+A018795;776 Thermionic, cold cathode or photo...;"776 Thermionic, cold cathode or photo-cathode valves and tubes; diodes, transistors, and similar semiconductor devices"
+A018796;778 Electrical machinery and apparatu...;778 Electrical machinery and apparatus, n.e.s.
+A018797;78 Road vehicles (including air-cushi...;78 Road vehicles (including air-cushion vehicles)
+A018798;781 Motor cars and other motor vehicl...;781 Motor cars and other motor vehicles principally designed for the transport of persons (other than public-transport type vehicles) including station-wagons and racing cars
+A018799;782 Motor vehicles for the transport ...;782 Motor vehicles for the transport of goods and special-purpose motor vehicles
+A018800;783 Road motor vehicles, n.e.s.;
+A018801;784 Parts and accessories of the moto...;784 Parts and accessories of the motor vehicles of groups 722, 781, 782 and 783
+A018802;785 Motor cycles (including mopeds) a...;"785 Motor cycles (including mopeds) and cycles, motorized and non-motorized; invalid cariages"
+A018803;"786 Trailers and semi-trailers; other...";"786 Trailers and semi-trailers; other vehicles, not mechanically propelled; specially designed and equipped transport containers"
+A018804;79 Other transport equipment;
+A018805;791 Railway vehicles (including hover...;791 Railway vehicles (including hovertrains) and associated equipment
+A018806;792 Aircraft and associated equipment...;"792 Aircraft and associated equipment; spacecraft (including satellites) and spacecraft launch vehicles; parts thereof"
+A018807;793 Ships, boats (including hovercraf...;793 Ships, boats (including hovercraft) and floating structures
+A018809;8 Miscellaneous manufactured articles;
+A045281;80 Components of complete industrial ...;80 Components of complete industrial plants of section 8
+A045282;800 Components of complete industrial...;800 Components of complete industrial plants of division 80
+A018811;"81 Prefabricated buildings; sanitary ...";"81 Prefabricated buildings; sanitary plumbing, heating and lighting fixtures and fittings, n.e.s."
+A018812;811 Prefabricated buildings;
+A018813;812 Sanitary, plumbing and heating fi...;812 Sanitary, plumbing and heating fixtures and fittings, n.e.s.
+A018814;813 Lighting fixtures and fittings, n...;813 Lighting fixtures and fittings, n.e.s.
+A018815;"82 Furniture and parts thereof; beddi...";"82 Furniture and parts thereof; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings"
+A018816;"821 Furniture and parts thereof; bedd...";"821 Furniture and parts thereof; bedding, mattresses, mattres supports, cushions and similar stuffed furnishings"
+A018817;83 Travel goods, handbags and similar...;83 Travel goods, handbags and similar containers
+A018818;831 Travel goods, handbags and simila...;831 Travel goods, handbags and similar containers
+A018819;84 Articles of apparel and clothing a...;84 Articles of apparel and clothing accessories
+A018820;841 Men's or boys' clothing of textil...;841 Men's or boys' clothing of textile fabrics (other than knitted or crocheted goods)
+A018821;842 Women's or girls' clothing of tex...;842 Women's or girls' clothing of textile fabrics (other than knitted or crocheted goods)
+A018822;843 Men's or boys' clothing of textil...;843 Men's or boys' clothing of textile fabrics, knitted or crocheted
+A018823;844 Women's or girls' clothing of tex...;844 Women's or girls' clothing of textile fabrics, knitted or crocheted
+A018824;845 Articles of apparel, of textile f...;845 Articles of apparel, of textile fabrics, whether or not knitted or crocheted, n.e.s.
+A018825;846 Clothing accessories, of textile ...;846 Clothing accessories, of textile fabrics, whether or not knitted or crocheted (other than those for babies)
+A018826;848 Articles of apparel and clothing ...;"848 Articles of apparel and clothing accessories of other than textile fabrics; headgear of all materials"
+A018827;85 Footwear;
+A018828;851 Footwear;
+A018829;87 Professional, scientific and contr...;87 Professional, scientific and controlling instruments and apparatus, n.e.s.
+A018830;871 Optical instruments and apparatus...;871 Optical instruments and apparatus, n.e.s.
+A018831;872 Instruments and appliances, n.e.s...;872 Instruments and appliances, n.e.s., for medical, surgical, dental or veterinary purposes
+A018832;873 Meters and counters, n.e.s.;
+A018833;874 Measuring, checking, analysing an...;874 Measuring, checking, analysing and controlling instruments and apparatus, n.e.s.
+A018834;88 Photographic apparatus, equipment ...;88 Photographic apparatus, equipment and supplies and optical goods, n.e.s.: watches and clocks
+A018835;881 Photographic apparatus and equipm...;881 Photographic apparatus and equipment, n.e.s.
+A018836;882 Photographic and cinematographic ...;882 Photographic and cinematographic supplies
+A018837;883 Cinematograph film, exposed and d...;883 Cinematograph film, exposed and developed, whether or not incorporationg soundtrack or consisting only of soundtrack
+A018838;884 Optical goods, n.e.s.;
+A018839;885 Watches and clocks;
+A018840;89 Miscellaneous manufactured article...;89 Miscellaneous manufactured articles, n.e.s.
+A018841;891 Arms and ammunition;
+A018842;892 Printed matter;
+A018843;893 Articles, n.e.s., of plastics;
+A018844;894 Baby carriages, toys, games and s...;894 Baby carriages, toys, games and sporting goods
+A018845;895 Office and stationery supplies, n...;895 Office and stationery supplies, n.e.s.
+A018846;896 Works of art, collectors' pieces ...;896 Works of art, collectors' pieces and antiques
+A018847;897 Jewellery, goldsmiths' and silver...;897 Jewellery, goldsmiths' and silversmiths' wares, and other articles of precious or semiprecious materials, n.e.s.
+A018848;898 Musical instruments and parts and...;"898 Musical instruments and parts and accessories thereof; records, tapes and other sound or similar recordings (excluding goods of groups 763 and 883)"
+A018849;899 Miscellaneous manufactured articl...;899 Miscellaneous manufactured articles, n.e.s.
+A018851;9 Commodities and transactions not cl...;9 Commodities and transactions not classified elsewhere in the SITC
+A018853;91 Postal packages not classified acc...;91 Postal packages not classified according to kind
+A018854;911 Postal packages not classified ac...;911 Postal packages not classified according to kind
+A018855;93 Special transactions and commoditi...;93 Special transactions and commodities not classified according to kind
+A018856;931 Special transactions and commodit...;931 Special transactions and commodities not classified according to kind
+A018857;94 Components of complete industrial ...;94 Components of complete industrial plants of chapter 99 CN
+A018858;941 Components of complete industrial...;941 Components of complete industrial plants of chapter 99 CN
+A018859;96 Coin (other than gold coin), not b...;96 Coin (other than gold coin), not being legal tender
+A018860;961 Coin (other than gold coin), not ...;961 Coin (other than gold coin), not being legal tender
+A018861;97 Gold, non-monetary (excluding gold...;97 Gold, non-monetary (excluding gold, ores and concentrates)
+A018862;971 Gold, non-monetary (excluding gol...;971 Gold, non-monetary (excluding gold, ores and concentrates)
